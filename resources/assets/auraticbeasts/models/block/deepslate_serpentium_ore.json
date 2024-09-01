@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "auraticbeasts:block/deepslate_serpentium_ore_top",
+    "side": "auraticbeasts:block/deepslate_serpentium_ore_side"
+  }
+}

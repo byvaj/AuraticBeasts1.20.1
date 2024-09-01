@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "auraticbeasts:deepslate_serpentium_ore"
+  },
+  "result": "auraticbeasts:serpentium_ingot"
+}
